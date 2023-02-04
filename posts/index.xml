@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raihan&#39;s Blog</title>
-    <link>https://r8025n.github.io/blog/</link>
-    <description>Recent content on Raihan&#39;s Blog</description>
+    <title>Posts on Raihan&#39;s Blog</title>
+    <link>https://r8025n.github.io/blog/posts/</link>
+    <description>Recent content in Posts on Raihan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 18:04:07 +0600</lastBuildDate><atom:link href="https://r8025n.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Feb 2023 18:04:07 +0600</lastBuildDate><atom:link href="https://r8025n.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://r8025n.github.io/blog/posts/my-first-post/</link>

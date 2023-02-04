@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://r8025n.github.io/blog/categories/</loc>
+    <loc>https://r8025n.github.io/blog/posts/my-first-post/</loc>
+    <lastmod>2023-02-04T18:04:07+06:00</lastmod>
+  </url><url>
+    <loc>https://r8025n.github.io/blog/posts/</loc>
+    <lastmod>2023-02-04T18:04:07+06:00</lastmod>
   </url><url>
     <loc>https://r8025n.github.io/blog/</loc>
+    <lastmod>2023-02-04T18:04:07+06:00</lastmod>
+  </url><url>
+    <loc>https://r8025n.github.io/blog/categories/</loc>
   </url><url>
     <loc>https://r8025n.github.io/blog/tags/</loc>
   </url>
